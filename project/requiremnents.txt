@@ -1,0 +1,15 @@
+langchain
+langchain_community
+langchain-google-genai
+langchain-google-genai
+python-dotenv
+streamlit
+fastapi
+fastapi-cli
+pytest
+pypdf
+faiss-cpu
+pdfminer
+pdfminer.six
+spacy
+
